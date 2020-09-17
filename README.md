@@ -1,1 +1,1 @@
-ttps://your-github-account.github.io/rsschool-cv/cv
+https://alexresdeveloper.github.io/rsschool-cv/cv
