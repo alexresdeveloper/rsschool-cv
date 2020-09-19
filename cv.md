@@ -1,6 +1,7 @@
  # Aliaksei Baturo <br>
- __VK__: [Alexei Baturo](https://vk.com/iamagelfitnes), __Phone__: 80445438492, <br>
- __EMAIL__: alexres544@gmail.com. <br>
+ __VK__: [Alexei Baturo](https://vk.com/iamagelfitnes), __instagram__: [alexresfit](https://www.instagram.com/alexresfit/?hl=ru), <br> 
+ __Phone__: 80445438492, <br>
+ __EMAIL__: alexres544@gmail.com.  <br> 
  __Adress__: 6-16, Dneprovskaya street, <br>
  Minsk region, Belarus 222519 <br>
  I want to be a front-end developer. Now I'm studying CSS, HTML, JS for this purpose. It the main goal for me. <br>
