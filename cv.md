@@ -5,10 +5,10 @@
  Minsk region, Belarus 222519 <br>
  I want to be a front-end developer. Now I'm studying CSS, HTML, JS for this purpose. It the main goal for me. <br>
  * Some words about Me:
-    *  I am flexible in my working hours, being able to work evenings and weekends;
-    *  I am always energetic and eager to learn new skills;
-    *  I use a creative approach to problem solve;
-    *  I am able to handle multiple tasks on a daily basis.
+    *  I am _flexible_ in my working hours, being able to work evenings and weekends;
+    *  I am always _energetic_ and _eager_ to learn new skills;
+    *  I use a _creative_ approach to problem solve;
+    *  I am _able_ to handle multiple tasks on a daily basis.
     
  I have basic skills in: JS, CSS, HTML, Git and every day I'am improving thats. <br>
  I did a curse in HTML academy: basic __CSS/HTML/JS__. <br>
