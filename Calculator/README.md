@@ -6,4 +6,4 @@
 - [демо](https://irinainina.github.io/ready-projects/calculator-ru/)
 
 
-https://alexresdeveloper.github.io/rsschool-cv/calculator/index
+https://alexresdeveloper.github.io/rsschool-cv/index
